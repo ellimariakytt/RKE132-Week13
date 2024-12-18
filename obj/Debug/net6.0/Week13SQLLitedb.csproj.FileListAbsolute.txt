@@ -1,0 +1,5 @@
+/Users/ellikutt/Desktop/2 Sügissemester/Programmeerimine/Week13SQLLitedb/obj/Debug/net6.0/Week13SQLLitedb.csproj.AssemblyReference.cache
+/Users/ellikutt/Desktop/2 Sügissemester/Programmeerimine/Week13SQLLitedb/obj/Debug/net6.0/Week13SQLLitedb.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ellikutt/Desktop/2 Sügissemester/Programmeerimine/Week13SQLLitedb/obj/Debug/net6.0/Week13SQLLitedb.AssemblyInfoInputs.cache
+/Users/ellikutt/Desktop/2 Sügissemester/Programmeerimine/Week13SQLLitedb/obj/Debug/net6.0/Week13SQLLitedb.AssemblyInfo.cs
+/Users/ellikutt/Desktop/2 Sügissemester/Programmeerimine/Week13SQLLitedb/obj/Debug/net6.0/Week13SQLLitedb.csproj.CoreCompileInputs.cache

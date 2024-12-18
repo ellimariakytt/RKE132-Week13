@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{E01D359D-D43F-4CEA-9B82-F8B042276F73}|Default">
+  <MonoDevelop.Ide.ItemProperties.Week13SQLLitedb PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Program.cs">
+    <Files>
+      <File FileName="../Week9Lists/Program.cs" Line="1" Column="1" />
+      <File FileName="../../../Week13SQLiteDB/Week13SQLiteDB/Program.cs" Line="125" Column="2" />
+      <File FileName="Program.cs" Line="48" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
